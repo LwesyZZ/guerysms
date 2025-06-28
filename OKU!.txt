@@ -1,0 +1,2 @@
+python gueryf2fstart.py
+yazarak çalıştırabilirsin.
