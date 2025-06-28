@@ -1,2 +1,3 @@
-python smsbomb.py
+python gueryf2fstart.py
 yazarak çalıştırabilirsin.
+pip install -r requirements.txt
