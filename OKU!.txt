@@ -1,2 +1,2 @@
-python gueryf2fstart.py
+python smsbomb.py
 yazarak çalıştırabilirsin.
